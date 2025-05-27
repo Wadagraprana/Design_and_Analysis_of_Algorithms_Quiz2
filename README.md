@@ -10,6 +10,7 @@
 
 </div>
 
+
 ## Instructions
 
 1. Form a group of up to 3 students.
@@ -24,22 +25,13 @@
   - Total: [100 points]
 
 Member’s percentage of contribution and specific roles:
-  - Aldo     —33.33%: Implemented DFS, BFS, Kruskal, time, ranking section, and Button Function (non modular version).
-  - Syarif   —33.33%: handled Design user interface and developed the modularity structure.
-  - Pane     —33.33%: Perform analysis, testing, and wrote the final report.
-
-
-
-
-
-
-
-
-
+  - Aldo     — 33.33%: Implemented DFS, BFS, Kruskal, time, ranking section, and Button Function (non modular version).
+  - Syarif   — 33.33%: handled Design user interface and developed the modularity structure.
+  - Pane     — 33.33%: Perform analysis, testing, and wrote the final report.
 
 
 <div align=center>
 
-# TERIMA KASIH
+# Thank You
 
 </div>
