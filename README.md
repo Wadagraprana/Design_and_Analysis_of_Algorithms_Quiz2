@@ -25,9 +25,9 @@
 
 
 ### Member's percentage of contribution and specific roles:
-  - Aldo     — 33.33%: Implemented DFS, BFS, Kruskal, time, ranking section, and Button Function (non modular version).
+  - Aldo     — 33.33%: Implemented DFS, BFS, time, ranking section, and Button Function (non modular version).
   - Syarif   — 33.33%: handled Design user interface and developed the modularity structure.
-  - Pane     — 33.33%: Perform analysis, testing, and wrote the final report.
+  - Pane     — 33.33%: Implemented Djikstra, A* Algorithm to get the shortes path and perform analysis, testing, also wrote the final report.
 
 ---
 
