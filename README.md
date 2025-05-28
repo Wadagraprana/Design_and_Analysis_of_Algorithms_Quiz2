@@ -35,7 +35,7 @@
 
 A visual simulation of different pathfinding algorithms racing to catch a cherry. This educational game demonstrates how different pathfinding algorithms behave in a maze environment.
 
-![image](https://github.com/user-attachments/assets/04b70060-f191-4b89-9eb3-8b1481362a07)
+![image](https://github.com/user-attachments/assets/5ea769c0-e040-4a85-970a-92e459ec3cb8)
 
 ## Overview
 
