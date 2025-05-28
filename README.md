@@ -171,6 +171,11 @@ The visual nature of the races makes it easy to understand these algorithm chara
 - Implement a map editor for custom maps
 - Support for user-created algorithms
 
+
+## Pledge
+![Pledge](https://github.com/user-attachments/assets/886a2715-abea-4bb3-90f5-cf5d3489494e)
+
+
 <div align=center>
 
 # Thank You
