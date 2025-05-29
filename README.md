@@ -173,7 +173,7 @@ The visual nature of the races makes it easy to understand these algorithm chara
 
 
 ## Pledge
-![Pledge](https://github.com/user-attachments/assets/886a2715-abea-4bb3-90f5-cf5d3489494e)
+![image](https://github.com/user-attachments/assets/7e4bd91b-c512-4670-b8b8-15a19d2e296e)
 
 
 <div align=center>
