@@ -57,7 +57,7 @@ The game features three ghosts, each using a different pathfinding algorithm:
 
 - **Cyan Ghost**: Uses Breadth-First Search (BFS) - methodically explores all possible paths level by level
 - **Pink Ghost**: Uses Depth-First Search (DFS) - pursues a single path as far as possible before backtracking
-- **Orange Ghost**: Uses a randomized approach (labeled as "Kruskal") - makes random moves, creating unpredictable behavior
+- **Orange Ghost**: Uses Dijkstra ("Dijkstra") - a cost-based priority queue, in a uniform-cost environment
 
 ### Map
 
@@ -113,12 +113,12 @@ The game implements several pathfinding algorithms:
    - Explores as far as possible along a branch before backtracking
    - Not guaranteed to find the shortest path
 
-3. **Randomized Approach** (labeled as "Kruskal"): 
+3. **Dijkstra**: 
    - Used by the Orange ghost
-   - Makes random valid moves
-   - Creates unpredictable movement patterns
+   - Explore nodes in the order of increasing distance
+   - A cost-based priority queue
 
-4. **A*** and **Dijkstra's algorithm**: 
+4. **A*** and **Kruskal**: 
    - Implemented in the code but not used by default
    - Can be assigned to ghosts for additional comparison
 
