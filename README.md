@@ -165,7 +165,7 @@ The visual nature of the races makes it easy to understand these algorithm chara
 
 ## Future Enhancements
 
-- Add more pathfinding algorithms (A*, Dijkstra's)
+- Add more pathfinding algorithms (A*, Kruskal)
 - Visualize the explored paths for each algorithm
 - Add obstacles that can be placed during the race
 - Implement a map editor for custom maps
