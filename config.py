@@ -28,6 +28,7 @@ class Config:
         'ghost_cyan': "assets/ghost-cyan.png",
         'ghost_pink': "assets/ghost-pink.png",
         'ghost_orange': "assets/ghost-orange.png",
+        'ghost_red': "assets/ghost-red.png",
         'cherry': "assets/cherry.png",
         'map': "map.txt"
     }

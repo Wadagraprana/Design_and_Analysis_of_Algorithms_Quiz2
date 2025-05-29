@@ -72,7 +72,7 @@ class GhostCherryGame:
         self.ghosts = [
             Ghost("Cyan", "cyan", (15, 16), self.algorithms['BFS']),
             Ghost("Pink", "pink", (16, 17), self.algorithms['DFS']),
-            Ghost("Orange", "orange", (17, 16), self.algorithms['Kruskal'])
+            Ghost("Orange", "orange", (17, 16), self.algorithms['Dijkstra']),
         ]
     
     def load_images(self) -> None:
@@ -455,7 +455,7 @@ class GhostCherryGame:
         
         # Draw algorithm info
         DrawingUtil.draw_rounded_rect(self.screen, Config.PANEL_BG, self.layout['algorithm_info'], 5, 2, Config.PANEL_BORDER)
-        algo_text = "Algorithms: Cyan (BFS), Pink (DFS), Orange (Kruskal)"
+        algo_text = "Algorithms: Cyan (BFS), Pink (DFS), Orange (Djikstra)"
         DrawingUtil.render_text_fit(
             self.screen, 
             algo_text, 
